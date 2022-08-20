@@ -27,7 +27,7 @@ I am a rising senior studying Computer Engineering at UC Irvine. I study embedde
   Languages, Tools, and Frameworks 👨‍💻
 </h2>
 
-<div>
+<div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="48" height="48"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="48" height="48"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="48" height="48"/>&nbsp;
