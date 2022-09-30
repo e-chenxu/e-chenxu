@@ -11,8 +11,6 @@ I am a rising senior studying Computer Engineering at UC Irvine. I study embedde
 
 - 📫 Email: cheneric.xu@gmail.com
 
-- 💼 LinkedIn: https://www.linkedin.com/in/eric-chen-xu/
-
 
 </br>
 
