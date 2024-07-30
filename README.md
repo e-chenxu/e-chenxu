@@ -46,10 +46,6 @@ I am a rising senior studying Computer Engineering at UC Irvine. I study embedde
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="48" height="48"/>&nbsp;
 </div>
 
-<a href="http://www.github.com/e-chenxu"><img src="https://activity-graph.herokuapp.com/graph?username=e-chenxu&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-
 <!-- <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=1236166564&cover_image=true&theme=default&bar_color=d1ffd1&bar_color_cover=false"
 </p> -->
