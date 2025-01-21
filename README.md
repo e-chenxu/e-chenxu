@@ -1,13 +1,13 @@
 Hello! 👋 My name is Eric Chen.
 =============================
 
-I am a rising senior studying Computer Engineering at UC Irvine. I study embedded systems, but in my free time I like to focus more on the software side of computers. Career interests of mine include hardware engineering, software engineering, and web/app developing.
+I am a recent graduate of Computer Engineering at UC Irvine. I study embedded systems, but in my free time I like to focus more on the software side of computers. Career interests of mine include hardware engineering, software engineering, and web/app developing.
 
 - 💻 I’m currently learning database structures, artificial intelligence, and computer architecture.
 
 - 👯 I'm open to collaborating on projects utilizing embedded systems and machine learning.
 
-- 🎧 Hobbies: Practicing archery 🏹, catching up on tech 💻, and light exercising 🏃!
+- 🎧 Hobbies: Practicing archery / climbing 🏹, catching up on tech 💻, and light exercising 🏃!
 
 - 📫 Email: cheneric.xu@gmail.com
 
