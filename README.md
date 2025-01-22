@@ -9,8 +9,6 @@ I am a recent graduate of Computer Engineering at UC Irvine. I study embedded sy
 
 - 🎧 Hobbies: Practicing archery / climbing 🏹, catching up on tech 💻, and light exercising 🏃!
 
-- 📫 Email: cheneric.xu@gmail.com
-
 
 </br>
 
