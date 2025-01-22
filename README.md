@@ -13,12 +13,9 @@ I am a recent graduate of Computer Engineering at UC Irvine. I study embedded sy
 </br>
 
 <p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-chenxu&layout=compact&langs_count=5" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-chenxu&layout=compact&langs_count=6&hide=cmake,makefile&show_icons=true&count_private=true" width="48%" /> 
 </p>
-<!-- Github Stats             |  Popular Programming Languages
-  :-------------------------:|:-------------------------:
-  [![Erics's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-chenxu&show_icons=true&theme=dracula&count_private=true)](https://github.com/e-chenxu/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-chenxu&layout=compact)](https://github.com/e-chenxu/github-readme-stats) -->
-<!-- markdown badges: https://github.com/Ileriayo/markdown-badges -->
+
 <h2 align="left">
   Languages, Tools, and Frameworks 👨‍💻
 </h2>
