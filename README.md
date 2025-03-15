@@ -13,7 +13,7 @@ I am a recent graduate of Computer Engineering at UC Irvine. I study embedded sy
 </br>
 
 <p float="left" align="center">
-  <img src="https:/github-readme-stats-five-tau-93.vercel.app/api/top-langs/?username=e-chenxu&layout=compact&langs_count=6&hide=cmake,makefile&show_icons=true&count_private=true" width="48%" /> 
+  <img src="https://github-readme-stats-five-tau-93.vercel.app/api/top-langs/?username=e-chenxu&layout=compact&langs_count=6&hide=cmake,makefile,css,html&show_icons=true&count_private=false" width="48%" /> 
 </p>
 
 <h2 align="left">
